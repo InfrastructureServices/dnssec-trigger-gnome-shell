@@ -1,0 +1,1 @@
+{"name": "dnssec-trigger", "description": "Manage DNSSEC validating resolver", "uuid": "dnssectrigger@msehnout.redhat.com", "shell-version": ["3.26.2"]}
